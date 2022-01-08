@@ -1,6 +1,6 @@
 # Hangman 
 
-Click to play :- hangman-game-reactjs.netlify.app/
+Click to play :- https://hangman-game-reactjs.netlify.app/
 
 
 
